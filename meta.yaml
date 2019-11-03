@@ -250,7 +250,10 @@ toc:
   - code: python-console-applications
     title: Python Console Applications
     id: ec493f09-bbd2-4ca1-a9b0-74f6dd62ec3b
-    topics: []
+    topics:
+      - code: introduction-7
+        title: Introduction
+        id: d2d49b3d-e368-4ff2-923d-b9001818757a
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
