@@ -17,6 +17,9 @@ toc:
       - code: expressions-and-statements
         title: Expressions and Statements
         id: 38010dfa-0e1c-4b06-a256-864103f4082c
+      - code: conditional-operators
+        title: Conditional Operators
+        id: 2373d7d9-50f7-4f04-aec7-c0a814a58cce
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
