@@ -257,6 +257,9 @@ toc:
       - code: heads-or-tails
         title: Heads or Tails
         id: 59e0498b-e194-4619-a6f0-ada95ea2dce5
+      - code: betting-on-dice
+        title: Betting on Dice
+        id: c44c41fa-9e8e-4930-bdc7-cde1d368e4e9
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
