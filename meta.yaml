@@ -57,6 +57,9 @@ toc:
       - code: while-loop-with-flag
         title: While Loop With Flag
         id: f27d77da-8280-451b-a6fb-6326eff704be
+      - code: star-patterns
+        title: Star Patterns
+        id: eafc527c-2d83-44fc-b3b6-54a760c9626c
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
