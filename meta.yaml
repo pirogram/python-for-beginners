@@ -119,6 +119,9 @@ toc:
       - code: organize-map-as-list
         title: Organize Map As List
         id: 3634389e-ee64-4947-b690-113f3031a8aa
+      - code: dict-as-map
+        title: Dict As Map
+        id: 4cc2fd0b-3e92-4c97-9cad-7a746ce1f2b1
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
