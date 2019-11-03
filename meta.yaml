@@ -42,6 +42,9 @@ toc:
       - code: introduction-1
         title: Introduction
         id: 3ba328ce-bdfc-46f3-8fbd-3cec1cbad236
+      - code: if-elif-else
+        title: 'if, elif, else'
+        id: a410274d-512e-4313-825f-cab8928becf4
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
