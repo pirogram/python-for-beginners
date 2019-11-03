@@ -91,6 +91,9 @@ toc:
       - code: list-iteration
         title: List Iteration
         id: 9e2b93cb-dea0-4946-8f0d-ae70e8a0904f
+      - code: list-iteration-with-index
+        title: List Iteration With Index
+        id: 62edf720-a4fe-4050-a366-8725bb29a09e
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
