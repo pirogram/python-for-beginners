@@ -60,6 +60,10 @@ toc:
       - code: star-patterns
         title: Star Patterns
         id: eafc527c-2d83-44fc-b3b6-54a760c9626c
+  - code: list-of-values
+    title: List of Values
+    id: c2afb952-06e4-4060-9c5d-a764c6267c2b
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
