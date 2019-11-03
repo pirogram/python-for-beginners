@@ -85,6 +85,9 @@ toc:
       - code: list-operations
         title: List Operations
         id: 4d394191-d7b7-41cd-bf09-b2d6234df8af
+      - code: list-membership
+        title: List Membership
+        id: 1d7aec62-440a-4faf-83cf-a2dcdfa58edb
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
