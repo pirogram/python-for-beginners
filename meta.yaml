@@ -159,7 +159,10 @@ toc:
   - code: python-functions
     title: Python Functions
     id: 0c99cbec-bbc5-44df-b397-e27411d0e431
-    topics: []
+    topics:
+      - code: introduction-4
+        title: Introduction
+        id: df9d53c6-88b7-4f03-81fc-f067224a70e4
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
