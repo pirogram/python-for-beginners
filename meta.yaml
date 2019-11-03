@@ -94,6 +94,9 @@ toc:
       - code: list-iteration-with-index
         title: List Iteration With Index
         id: 62edf720-a4fe-4050-a366-8725bb29a09e
+      - code: sequence-of-numbers
+        title: Sequence of Numbers
+        id: 872a0fa5-b466-463c-8ead-0c645ebfda80
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
