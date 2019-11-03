@@ -106,6 +106,9 @@ toc:
       - code: set
         title: Set
         id: 7a941267-7ede-4109-8e02-b8f57b4baa73
+      - code: comprehension
+        title: Comprehension
+        id: 7c054cca-c7fe-4e85-a3d0-0551ad7e1529
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
