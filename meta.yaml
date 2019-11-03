@@ -1,6 +1,10 @@
 code: python-for-beginners
 title: Python for Beginners
 toc:
+  - code: anatomy-of-python-program
+    title: Anatomy of Python Program
+    id: 749811d4-356e-4593-97e7-669feb908d34
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
