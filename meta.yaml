@@ -76,6 +76,9 @@ toc:
       - code: list-indexing
         title: List Indexing
         id: 1360a4bd-1807-4d4c-b678-3e105603ec36
+      - code: mental-model-for-lists
+        title: Mental Model for Lists
+        id: 3a565bc1-003b-4c4f-a047-cbd7f029f08a
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
