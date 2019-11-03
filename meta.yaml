@@ -213,6 +213,9 @@ toc:
       - code: about-list
         title: About List
         id: 2b58c78d-d9c0-4451-8485-886552dac9fd
+      - code: list-and-dict-transformation
+        title: List & Dict Transformation
+        id: 29f3dcf9-9a7c-408b-9701-8baddd6bfdc7
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
