@@ -169,6 +169,9 @@ toc:
       - code: multiple-return-values
         title: Multiple Return Values
         id: 0330fa96-67fe-4b66-90f3-b00bfa676d77
+      - code: variable-positional-arguments
+        title: Variable Positional Arguments
+        id: 224a10d5-d9a9-48bb-ac95-4ede50e2e498
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
