@@ -141,6 +141,9 @@ toc:
       - code: string-as-sequence
         title: String As Sequence
         id: bfcbdf49-c4de-4f64-80df-000d444a9078
+      - code: matching-searching
+        title: Matching / Searching
+        id: 15ff58e7-347e-4df4-9b3e-a3a66e88c6ca
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
