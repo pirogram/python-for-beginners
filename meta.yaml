@@ -32,6 +32,9 @@ toc:
       - code: taking-input
         title: Taking Input
         id: 5a9e3abc-f2fb-4030-8142-a01d1b86c0aa
+      - code: data-type-conversion
+        title: Data Type Conversion
+        id: 5658979b-6898-4b36-8898-95147d4e36f2
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
