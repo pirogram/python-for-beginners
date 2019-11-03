@@ -266,6 +266,9 @@ toc:
       - code: todo-list
         title: Todo List
         id: 4387a1ee-cdcc-4210-8a96-6704027d792e
+      - code: hangman
+        title: Hangman
+        id: 2b2b9dbb-ef4c-4cd5-b367-a86249ccd1e6
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
