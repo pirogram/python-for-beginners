@@ -51,6 +51,9 @@ toc:
       - code: while-with-branching
         title: While With Branching
         id: 98252a94-2ac0-4a62-b963-8b041827ed5f
+      - code: infinite-while-loop-with-break
+        title: Infinite While Loop With Break
+        id: 0075b283-7332-4812-b836-90840594efb7
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
