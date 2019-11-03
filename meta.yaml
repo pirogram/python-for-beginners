@@ -138,6 +138,9 @@ toc:
       - code: creating-strings
         title: Creating Strings
         id: 0b2f5bc1-8e34-4c94-87f4-3baf7cd965b8
+      - code: string-as-sequence
+        title: String As Sequence
+        id: bfcbdf49-c4de-4f64-80df-000d444a9078
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
