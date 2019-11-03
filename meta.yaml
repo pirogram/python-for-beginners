@@ -200,6 +200,9 @@ toc:
       - code: list-of-dictionaries
         title: List of Dictionaries
         id: f3d2195e-3819-42cb-9939-63dbf8c79706
+      - code: dict-of-values
+        title: Dict of Values
+        id: 051e7b4f-ce3b-450e-9f04-024de7217a1a
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
