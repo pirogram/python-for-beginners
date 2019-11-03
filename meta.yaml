@@ -103,6 +103,9 @@ toc:
       - code: tuple
         title: Tuple
         id: 15ac6fc4-b00f-448e-ac31-dbe106a0a161
+      - code: set
+        title: Set
+        id: 7a941267-7ede-4109-8e02-b8f57b4baa73
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
