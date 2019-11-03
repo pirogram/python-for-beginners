@@ -181,6 +181,10 @@ toc:
       - code: recursion
         title: Recursion
         id: cf77eddc-3f38-4bf6-a2df-6b13cae9f893
+  - code: sorting-in-python
+    title: Sorting in Python
+    id: 2a06a660-0166-44af-978a-33295587a294
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
