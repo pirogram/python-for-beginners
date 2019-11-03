@@ -254,6 +254,9 @@ toc:
       - code: introduction-7
         title: Introduction
         id: d2d49b3d-e368-4ff2-923d-b9001818757a
+      - code: heads-or-tails
+        title: Heads or Tails
+        id: 59e0498b-e194-4619-a6f0-ada95ea2dce5
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
