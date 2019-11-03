@@ -184,7 +184,10 @@ toc:
   - code: sorting-in-python
     title: Sorting in Python
     id: 2a06a660-0166-44af-978a-33295587a294
-    topics: []
+    topics:
+      - code: introduction-5
+        title: Introduction
+        id: 3fc91c73-cb53-4557-94b5-ef6e21216ab9
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
