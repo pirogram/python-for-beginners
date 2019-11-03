@@ -222,6 +222,9 @@ toc:
       - code: nested-traversal
         title: Nested Traversal
         id: b4ced0c6-6484-44eb-9580-b6d1b38df198
+      - code: list-manipulation
+        title: List Manipulation
+        id: fe42ad93-fe6a-43b4-915a-2c52e7d28f64
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
