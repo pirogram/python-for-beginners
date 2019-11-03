@@ -219,6 +219,9 @@ toc:
       - code: pattern-in-list
         title: Pattern in List
         id: ff3b0f94-9dd8-4689-987c-f5b409dc0a61
+      - code: nested-traversal
+        title: Nested Traversal
+        id: b4ced0c6-6484-44eb-9580-b6d1b38df198
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
