@@ -35,6 +35,10 @@ toc:
       - code: data-type-conversion
         title: Data Type Conversion
         id: 5658979b-6898-4b36-8898-95147d4e36f2
+  - code: python-control-statements
+    title: Python Control Statements
+    id: 4ed9366d-3c65-44cc-b1fb-2d9e2b6e5e7a
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
