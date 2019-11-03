@@ -48,6 +48,9 @@ toc:
       - code: while-loop
         title: While Loop
         id: bcc1a5ea-022b-4b96-9d77-bc2a0c0249c9
+      - code: while-with-branching
+        title: While With Branching
+        id: 98252a94-2ac0-4a62-b963-8b041827ed5f
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
