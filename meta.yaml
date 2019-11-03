@@ -150,6 +150,9 @@ toc:
       - code: joining
         title: Joining
         id: 459d6eca-32d2-40db-beef-57797000966a
+      - code: stripping
+        title: Stripping
+        id: cad54446-1c16-4dde-9765-b1e71a84efff
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
