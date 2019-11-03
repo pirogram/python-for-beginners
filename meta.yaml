@@ -247,6 +247,10 @@ toc:
       - code: static-methods
         title: Static Methods
         id: de608ae8-101f-4453-a2b6-82dbdae570ef
+  - code: python-console-applications
+    title: Python Console Applications
+    id: ec493f09-bbd2-4ca1-a9b0-74f6dd62ec3b
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
