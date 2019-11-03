@@ -191,6 +191,9 @@ toc:
       - code: sorted()
         title: sorted()
         id: 0a502cac-2088-420e-a9fe-1e342f85b337
+      - code: reversed-order
+        title: Reversed Order
+        id: 2f255c4a-24df-4d37-8ef2-5c00ab2607ac
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
