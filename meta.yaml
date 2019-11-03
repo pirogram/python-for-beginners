@@ -197,6 +197,9 @@ toc:
       - code: custom-comparison
         title: Custom Comparison
         id: 896eb906-d6a1-409c-9fce-122c5a2419e9
+      - code: list-of-dictionaries
+        title: List of Dictionaries
+        id: f3d2195e-3819-42cb-9939-63dbf8c79706
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
