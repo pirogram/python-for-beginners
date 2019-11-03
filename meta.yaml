@@ -14,6 +14,9 @@ toc:
       - code: value-types-data-types
         title: Value Types / Data Types
         id: 273fc3c6-b82b-4026-8871-0dd669a6c573
+      - code: expressions-and-statements
+        title: Expressions and Statements
+        id: b924b63d-a74a-485e-9950-f3cb60534667
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
