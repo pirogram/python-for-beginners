@@ -67,6 +67,9 @@ toc:
       - code: introduction-2
         title: Introduction
         id: 1e333ebe-8583-462b-95e6-d68d20717ef5
+      - code: organizing-values-as-list
+        title: Organizing Values as List
+        id: 027c3927-b1df-4bdb-8f11-d5bf0e1de8ea
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
