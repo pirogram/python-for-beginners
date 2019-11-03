@@ -260,6 +260,9 @@ toc:
       - code: betting-on-dice
         title: Betting on Dice
         id: c44c41fa-9e8e-4930-bdc7-cde1d368e4e9
+      - code: rock-paper-scissor
+        title: 'Rock, Paper, Scissor'
+        id: 1040fb51-7e03-4e59-9eec-a838b44c0028
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
