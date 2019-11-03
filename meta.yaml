@@ -269,6 +269,9 @@ toc:
       - code: hangman
         title: Hangman
         id: 2b2b9dbb-ef4c-4cd5-b367-a86249ccd1e6
+      - code: tic-tac-toe
+        title: Tic Tac Toe
+        id: f5db706f-d431-44b5-a716-9eca2f0466fc
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
