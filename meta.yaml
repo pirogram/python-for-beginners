@@ -97,6 +97,9 @@ toc:
       - code: sequence-of-numbers
         title: Sequence of Numbers
         id: 872a0fa5-b466-463c-8ead-0c645ebfda80
+      - code: list-traversal-with-range
+        title: List Traversal With Range
+        id: 5148aa6f-4977-4ed3-a832-8a673dc9f378
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
