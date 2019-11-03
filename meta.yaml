@@ -147,6 +147,9 @@ toc:
       - code: splitting
         title: Splitting
         id: ef32dac1-6f10-4b18-ac42-ee92caecc91d
+      - code: joining
+        title: Joining
+        id: 459d6eca-32d2-40db-beef-57797000966a
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
