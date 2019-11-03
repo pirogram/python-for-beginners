@@ -203,6 +203,10 @@ toc:
       - code: dict-by-values
         title: Dict by Values
         id: 051e7b4f-ce3b-450e-9f04-024de7217a1a
+  - code: python-list-problems
+    title: Python List Problems
+    id: 1eea9f4c-87c8-491c-875b-9553ec1dc819
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
