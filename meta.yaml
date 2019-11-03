@@ -1,0 +1,13 @@
+code: python-for-beginners
+title: Python for Beginners
+toc:
+  - code: about
+    title: About
+    id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
+    topics:
+      - code: book
+        title: Book
+        id: 81b3c867-a91b-403b-8024-97df88b728db
+      - code: author
+        title: Author
+        id: 8c509f75-be33-4179-944a-9d6e99d9251e
