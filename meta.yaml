@@ -128,6 +128,10 @@ toc:
       - code: dict-problems
         title: Dict Problems
         id: 5663e2b6-9574-4f04-8b70-6b0182becf79
+  - code: python-strings
+    title: Python Strings
+    id: 785d9d1d-12fd-4bb9-9f27-14b66df9358f
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
