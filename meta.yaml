@@ -116,6 +116,9 @@ toc:
       - code: mental-model-for-map
         title: Mental Model for Map
         id: 26d1baec-d686-4dc5-895b-5693114cff45
+      - code: organize-map-as-list
+        title: Organize Map As List
+        id: 3634389e-ee64-4947-b690-113f3031a8aa
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
