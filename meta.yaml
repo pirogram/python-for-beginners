@@ -109,6 +109,10 @@ toc:
       - code: comprehension
         title: Comprehension
         id: 7c054cca-c7fe-4e85-a3d0-0551ad7e1529
+  - code: dictionary
+    title: Dictionary
+    id: 7712447d-3f3f-4c24-814d-f6211e704363
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
