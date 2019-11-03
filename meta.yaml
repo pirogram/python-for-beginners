@@ -4,7 +4,10 @@ toc:
   - code: anatomy-of-python-program
     title: Anatomy of Python Program
     id: 749811d4-356e-4593-97e7-669feb908d34
-    topics: []
+    topics:
+      - code: introduction
+        title: Introduction
+        id: 91daf5f9-aee9-4225-ae78-8f61bc850036
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
