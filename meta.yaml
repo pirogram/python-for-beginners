@@ -216,6 +216,9 @@ toc:
       - code: list-and-dict-transformation
         title: List & Dict Transformation
         id: 29f3dcf9-9a7c-408b-9701-8baddd6bfdc7
+      - code: pattern-in-list
+        title: Pattern in List
+        id: ff3b0f94-9dd8-4689-987c-f5b409dc0a61
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
