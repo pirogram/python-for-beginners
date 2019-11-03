@@ -100,6 +100,9 @@ toc:
       - code: list-traversal-with-range
         title: List Traversal With Range
         id: 5148aa6f-4977-4ed3-a832-8a673dc9f378
+      - code: tuple
+        title: Tuple
+        id: 15ac6fc4-b00f-448e-ac31-dbe106a0a161
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
