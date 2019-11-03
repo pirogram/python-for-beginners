@@ -238,6 +238,9 @@ toc:
       - code: methods
         title: Methods
         id: a3fe5ecf-b6ea-428f-989d-85c63c7947f6
+      - code: methods-with-arguments
+        title: Methods With Arguments
+        id: ed8cae92-4d03-4990-af2b-894012342d30
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
