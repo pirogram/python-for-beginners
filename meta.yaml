@@ -122,6 +122,9 @@ toc:
       - code: dict-as-map
         title: Dict As Map
         id: 4cc2fd0b-3e92-4c97-9cad-7a746ce1f2b1
+      - code: dict-iteration
+        title: Dict Iteration
+        id: 3dad51b4-30cd-4a5b-b34f-8d9c86b506e4
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
