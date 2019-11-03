@@ -82,6 +82,9 @@ toc:
       - code: list-slicing
         title: List Slicing
         id: 11501ae9-88eb-41d5-9b1c-e4a362854792
+      - code: list-operations
+        title: List Operations
+        id: 4d394191-d7b7-41cd-bf09-b2d6234df8af
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
