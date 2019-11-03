@@ -194,6 +194,9 @@ toc:
       - code: reversed-order
         title: Reversed Order
         id: 2f255c4a-24df-4d37-8ef2-5c00ab2607ac
+      - code: custom-comparison
+        title: Custom Comparison
+        id: 896eb906-d6a1-409c-9fce-122c5a2419e9
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
