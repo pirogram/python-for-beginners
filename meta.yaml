@@ -131,7 +131,10 @@ toc:
   - code: python-strings
     title: Python Strings
     id: 785d9d1d-12fd-4bb9-9f27-14b66df9358f
-    topics: []
+    topics:
+      - code: introduction-3
+        title: Introduction
+        id: f1234337-83bf-4d54-a51d-cf241ae1125d
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
