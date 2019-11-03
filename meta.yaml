@@ -188,6 +188,9 @@ toc:
       - code: introduction-5
         title: Introduction
         id: 3fc91c73-cb53-4557-94b5-ef6e21216ab9
+      - code: sorted()
+        title: sorted()
+        id: 0a502cac-2088-420e-a9fe-1e342f85b337
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
