@@ -228,7 +228,10 @@ toc:
   - code: python-class
     title: Python Class
     id: c6e75523-a9f4-404b-82a9-5136b483473a
-    topics: []
+    topics:
+      - code: value-types
+        title: Value Types
+        id: e9973d59-47c7-4e7f-bf74-34f742bd90f4
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
