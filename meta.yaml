@@ -79,6 +79,9 @@ toc:
       - code: mental-model-for-lists
         title: Mental Model for Lists
         id: 3a565bc1-003b-4c4f-a047-cbd7f029f08a
+      - code: list-slicing
+        title: List Slicing
+        id: 11501ae9-88eb-41d5-9b1c-e4a362854792
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
