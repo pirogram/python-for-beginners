@@ -153,6 +153,9 @@ toc:
       - code: stripping
         title: Stripping
         id: cad54446-1c16-4dde-9765-b1e71a84efff
+      - code: formatting
+        title: Formatting
+        id: b3010050-38b5-4298-a85c-8eebf89032a9
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
