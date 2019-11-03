@@ -156,6 +156,10 @@ toc:
       - code: formatting
         title: Formatting
         id: b3010050-38b5-4298-a85c-8eebf89032a9
+  - code: python-functions
+    title: Python Functions
+    id: 0c99cbec-bbc5-44df-b397-e27411d0e431
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
