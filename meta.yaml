@@ -172,6 +172,9 @@ toc:
       - code: variable-positional-arguments
         title: Variable Positional Arguments
         id: 224a10d5-d9a9-48bb-ac95-4ede50e2e498
+      - code: variable-keyword-arguments
+        title: Variable Keyword Arguments
+        id: 5e71f0d8-a8d2-4d9f-a8c9-5773aadc4d74
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
