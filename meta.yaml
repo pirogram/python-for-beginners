@@ -241,6 +241,9 @@ toc:
       - code: methods-with-arguments
         title: Methods With Arguments
         id: ed8cae92-4d03-4990-af2b-894012342d30
+      - code: class-variables
+        title: Class Variables
+        id: f53fe862-dbfb-4a9b-9994-8bc48574e34d
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
