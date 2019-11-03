@@ -29,6 +29,9 @@ toc:
       - code: symbol-table
         title: Symbol Table
         id: 34f72f1b-b65a-4e0f-8a79-10ff9cc26396
+      - code: taking-input
+        title: Taking Input
+        id: 5a9e3abc-f2fb-4030-8142-a01d1b86c0aa
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
