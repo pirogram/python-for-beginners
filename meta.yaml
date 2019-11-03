@@ -178,6 +178,9 @@ toc:
       - code: default-value
         title: Default Value
         id: f6e169fd-f828-4e8f-9833-4e871efbcf73
+      - code: recursion
+        title: Recursion
+        id: cf77eddc-3f38-4bf6-a2df-6b13cae9f893
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
