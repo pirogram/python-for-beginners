@@ -225,6 +225,10 @@ toc:
       - code: list-manipulation
         title: List Manipulation
         id: fe42ad93-fe6a-43b4-915a-2c52e7d28f64
+  - code: python-class
+    title: Python Class
+    id: c6e75523-a9f4-404b-82a9-5136b483473a
+    topics: []
   - code: about
     title: About
     id: ef9eb7ec-91fb-423a-bb6c-9f551e312128
