@@ -215,12 +215,18 @@ question: |
   closet_items['shorts'] = 4
   ```
 mappings:
-  "closet_items['shirts']?": 16
-  "closet_items['shorts']?": 4
-  "closet_items.get('t-shirts')?": 7
-  "closet_items['ties']?": 2
-  "closet_items.get('shoes')?": This generates an error
-  "closet_items.get('shoes', 4)": 4
+  - challenge: "closet_items['shirts']?"
+    answer: 16
+  - challenge: "closet_items['shorts']?"
+    answer: 4
+  - challenge: "closet_items.get('t-shirts')?"
+    answer: 7
+  - challenge: "closet_items['ties']?"
+    answer: 2
+  - challenge: "closet_items.get('shoes')?"
+    answer: This generates an error
+  - challenge: "closet_items.get('shoes', 4)"
+    answer: 4
 ---
 type: testless-coding-question
 id: 3b88f2e2-635d-4f17-b3b2-86c639ecb157

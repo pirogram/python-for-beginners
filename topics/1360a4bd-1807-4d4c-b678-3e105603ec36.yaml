@@ -172,10 +172,14 @@ question: |
   ```
 categories: ['apple', 'orange', 'cabbage', 'okra', 'milk', 'eggs']
 mappings:
-  "grocery_items[0]": apple
-  "grocery_items[2]": cabbage
-  "grocery_items[-1]": eggs
-  "grocery_items[-5]": orange
+  - challenge: "grocery_items[0]"
+    answer: apple
+  - challenge: "grocery_items[2]"
+    answer: cabbage
+  - challenge: "grocery_items[-1]"
+    answer: eggs
+  - challenge: "grocery_items[-5]"
+    answer: orange
 
 ---
 type: categorization-question
@@ -188,11 +192,16 @@ question: |
   ```
 categories: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 'Invalid']
 mappings:
-  "one_to_ten[4]": 5
-  "one_to_ten[7]": 8
-  "one_to_ten[10]": Invalid
-  "one_to_ten[-3]": 8
-  "one_to_ten[-10]": 1
+  - challenge: "one_to_ten[4]"
+    answer: 5
+  - challenge: "one_to_ten[7]"
+    answer: 8
+  - challenge: "one_to_ten[10]"
+    answer: Invalid
+  - challenge: "one_to_ten[-3]"
+    answer: 8
+  - challenge: "one_to_ten[-10]"
+    answer: 1
 
 ---
 type: categorization-question
@@ -207,11 +216,16 @@ question: |
   ```
 categories: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 mappings:
-  "one_to_ten[3]": 11
-  "one_to_ten[7]": 8
-  "one_to_ten[5]": 12
-  "one_to_ten[-3]": 8
-  "one_to_ten[-7]": 11
+  - challenge: "one_to_ten[3]"
+    answer: 11
+  - challenge: "one_to_ten[7]"
+    answer: 8
+  - challenge: "one_to_ten[5]"
+    answer: 12
+  - challenge: "one_to_ten[-3]"
+    answer: 8
+  - challenge: "one_to_ten[-7]"
+    answer: 11
 
 ---
 type: categorization-question
@@ -224,8 +238,10 @@ question: |
   ```
 categories: [0, 1, 2, 3, 4, 5]
 mappings:
-  "What's the list index for Harry?": 2
-  "What's the list index for Ron?": 4
+  - challenge: "What's the list index for Harry?"
+    answer: 2
+  - challenge: "What's the list index for Ron?"
+    answer: 4
 
 ---
 type: categorization-question
@@ -241,9 +257,12 @@ question: |
   ```
 categories: [0, 1, 2, 3, 4, 5, 'Not In List']
 mappings:
-  "What's the list index for Harry?": "Not In List"
-  "What's the list index for Ron?": "Not In List"
-  "What's the list index for Sirius?": 4
+  - challenge: "What's the list index for Harry?"
+    answer: "Not In List"
+  - challenge: "What's the list index for Ron?"
+    answer: "Not In List"
+  - challenge: "What's the list index for Sirius?"
+    answer: 4
 
 ---
 type: categorization-question
@@ -256,8 +275,10 @@ question: |
   ```
 categories: [-1, -2, -3, -4, -5]
 mappings:
-  rose: -5
-  dahlia: -2
+  - challenge: rose
+    answer: -5
+  - challenge: dahlia
+    answer: -2
 
 ---
 type: testless-coding-question

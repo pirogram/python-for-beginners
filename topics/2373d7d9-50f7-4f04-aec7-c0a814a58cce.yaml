@@ -83,8 +83,12 @@ id: 5124eaf6-70ff-4dd6-833e-727d91b187f2
 question: |
   Can you select whether the following statements would yield `True` or `False`?
 mappings:
-  "4 <= 4": "True"
-  "(4 == 4) and (5 == 4)": "False"
-  "(4 == 4) or (5 == 4)": "True"
-  "(4 <= 4) and ((5 == 4) or (2 < 4))": "True"
+  - challenge: "4 <= 4"
+    answer: "True"
+  - challenge: "(4 == 4) and (5 == 4)"
+    answer: "False"
+  - challenge: "(4 == 4) or (5 == 4)"
+    answer: "True"
+  - challenge: "(4 <= 4) and ((5 == 4) or (2 < 4))"
+    answer: "True"
 

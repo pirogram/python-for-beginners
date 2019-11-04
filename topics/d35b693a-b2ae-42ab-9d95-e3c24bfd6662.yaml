@@ -85,7 +85,10 @@ id: 5688abb1-dd96-4eae-aff3-8955c35e34ca
 question: |
   You can find the various methods supported by a list in the [reference documents](https://docs.python.org/3/tutorial/datastructures.html). Based on this document, choose the method that would perform the desired operation.
 mappings:
-  "Method for appending items from one list to another": ".extend()"
-  "Method for remove all items from a list": ".clear()"
-  "Method for reversing the order of items in a list": ".reverse()"
+  - challenge: "Method for appending items from one list to another"
+    answer: ".extend()"
+  - challenge: "Method for remove all items from a list"
+    answer: ".clear()"
+  - challenge: "Method for reversing the order of items in a list"
+    answer: ".reverse()"
 
